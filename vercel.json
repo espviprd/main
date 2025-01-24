@@ -7,7 +7,5 @@
   "routes": [
     { "src": "/(.*)",  "dest": "/api/index.php" }
   ],
-  {
-    "regions": ["gru1"]
-  }
+  "regions": ["gru1"]
 }
